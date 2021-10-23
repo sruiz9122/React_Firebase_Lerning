@@ -15,9 +15,9 @@ Clase17 - 12-10-2021 - https://udea.zoom.us/rec/play/ajN_nQ6IRv7YFZcKGuMf5Ns2nGz
 
 Clase18 - 14-10-2021 - https://udea.zoom.us/rec/play/gUWlbEJbT85p3wzkJsSRxbp6sOsKWc0t8xNfQ3fPpWDyEzS88nNfE8V4Im3C7hDvhFgXPfxAGa1Sd0He.-h6wc3F-xr5n-hud
 
-Clase19 - 19-10-2021 - https://udea.zoom.us/rec/play/-njqbbi9RewwWs96EZxmkAzXY7zyRRK6lgKr4Z1VHweYvBYTR1Lswi84fzkReds9Y8jRINFHjX-BqZWy.qt2mZeSeA7hQheHj
+Clase19 - 16-10-2021 - https://udea.zoom.us/rec/play/-njqbbi9RewwWs96EZxmkAzXY7zyRRK6lgKr4Z1VHweYvBYTR1Lswi84fzkReds9Y8jRINFHjX-BqZWy.qt2mZeSeA7hQheHj
 
-Clase21 - 21-10-2021 - https://udea.zoom.us/rec/play/SE2-KAjRgcYZsuSDqkheBAodjjaS-6sdw8PDFc-12VETW3KgwHlUt9N4rNwzeTxlW_L4cairvKIqlj7h.TeujnWsGV3AphuWv
+Clase20 - 21-10-2021 - https://udea.zoom.us/rec/play/SE2-KAjRgcYZsuSDqkheBAodjjaS-6sdw8PDFc-12VETW3KgwHlUt9N4rNwzeTxlW_L4cairvKIqlj7h.TeujnWsGV3AphuWv
 
 Clase21 - 22-10-2021 - https://udea.zoom.us/rec/play/SWRzEtseule-RpXgMmUG9p9-ZGNcha-As4eGMel0BmxrEByTqiBGGirW9mjBpNYIQ0QZwlt4_8dBmcxG.lIyq4B0OZYGmtal3
 
