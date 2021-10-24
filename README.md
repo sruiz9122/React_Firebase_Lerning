@@ -21,4 +21,6 @@ Clase20 - 21-10-2021 - https://udea.zoom.us/rec/play/SE2-KAjRgcYZsuSDqkheBAodjja
 
 Clase21 - 22-10-2021 - https://udea.zoom.us/rec/play/SWRzEtseule-RpXgMmUG9p9-ZGNcha-As4eGMel0BmxrEByTqiBGGirW9mjBpNYIQ0QZwlt4_8dBmcxG.lIyq4B0OZYGmtal3
 
+Clase22 - 23-10-2021 - https://udea.zoom.us/rec/play/mHI6DNglv92xHxq1kaXrdwQZqYLUhDWs3zt9LYfv2fGknXsorJjBpCZJ7wdtWh0aY2yo2il-m2g5dO8.U4VQVdTw-zhGwyW3
+
 Repo profe- https://github.com/Gdaimon/
