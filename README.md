@@ -24,3 +24,4 @@ Clase21 - 22-10-2021 - https://udea.zoom.us/rec/play/SWRzEtseule-RpXgMmUG9p9-ZGN
 Clase22 - 23-10-2021 - https://udea.zoom.us/rec/play/mHI6DNglv92xHxq1kaXrdwQZqYLUhDWs3zt9LYfv2fGknXsorJjBpCZJ7wdtWh0aY2yo2il-m2g5dO8.U4VQVdTw-zhGwyW3
 
 Repo profe- https://github.com/Gdaimon/
+Filtro Ordenamiento Firebase - https://gist.github.com/Gdaimon/c327591051937ab9d8395ab911313731
