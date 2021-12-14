@@ -31,6 +31,7 @@ A partir de la clase 8 - http://ingeniaudea.edu.co/zoom-recordings/recordings/do
 Repo https://github.com/Mision-TIC-Ciclo-3
 
 Ciclo-4
+La clase del 7-12-2021 se muestra uso de DOCKER
 http://ingeniaudea.edu.co/zoom-recordings/recordings/docenciaingenia130@udea.edu.co/98204171506/2021-02-28
 Repositorio - https://github.com/jozaru?tab=repositories
 
