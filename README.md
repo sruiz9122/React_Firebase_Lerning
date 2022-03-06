@@ -38,6 +38,3 @@ Ciclo-4
 La clase del 7-12-2021 se muestra uso de DOCKER
 http://ingeniaudea.edu.co/zoom-recordings/recordings/docenciaingenia130@udea.edu.co/98204171506/2021-02-28
 Repositorio - https://github.com/jozaru?tab=repositories
-
-Curso Movil
-Grabaciones - http://ingeniaudea.edu.co/zoom-recordings/recordings/docenciaingenia130@udea.edu.co/96397388527/2021-02-28
